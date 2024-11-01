@@ -1,4 +1,4 @@
-## Hi, I'm Andreas Sas 👋
+## Hi, I'm Anna Sas 👋
 
 I'm a passionate developer and programming streamer who loves to "roll your own" solutions, though I know not to roll my own Auth!
 I believe the best way to learn is by diving deep into projects and solving problems from the ground up. I primarily work in C#, and one of my proudest projects is my custom data-driven game engine, AterraEngine, built in C# with Raylib.cs for rendering. It's designed to be mod-capable right out of the box.
@@ -10,7 +10,7 @@ I believe the best way to learn is by diving deep into projects and solving prob
 
 ---
 ### 🎥 Streaming
-On my twitch streams, [AndreasSasDev](https://www.twitch.tv/andreassasdev), you can find me doing a lot of live coding, whether it's building new features, debugging, or answering questions from viewers. 
+On my twitch streams, [AnnaSasDev](https://www.twitch.tv/annasasdev), you can find me doing a lot of live coding, whether it's building new features, debugging, or answering questions from viewers. 
 My chat is like my very own rubber ducky — you know, for explaining code in true "rubber duck debugging" fashion 🦆.
 If you enjoy coding with a community, learning alongside others, or just want to hang out while I debug, come by and say hi!
 
